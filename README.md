@@ -53,5 +53,18 @@ It blends a futuristic UI with smart itinerary generation to help travelers make
 ---
 
 ## 📂 Project Structure
+src/
+│── components/
+│ ├── AnimatedBackground.tsx
+│ ├── TimelineItem.tsx
+│
+│── services/
+│ ├── geminiService.ts
+│
+│── types/
+│ ├── index.ts
+│
+│── App.tsx
+│── main.tsx
 
 
