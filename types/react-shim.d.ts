@@ -1,6 +1,10 @@
 declare module 'react' {
   export const Fragment: any;
-  export function createElement(type: any, props?: any, ...children: any[]): any;
+  export function createElement(
+    type: any,
+    props?: any,
+    ...children: any[]
+  ): any;
   const React: any;
   export default React;
   export type FC<P = any> = (props: P) => any;
@@ -18,9 +22,7 @@ declare global {
     type FC<P = any> = (props: P) => any;
     const Fragment: any;
   }
-}
 
-declare global {
   interface ImportMetaEnv {
     VITE_API_KEY?: string;
   }
