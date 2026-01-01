@@ -1,0 +1,7 @@
+{
+  "name": "TravelMate",
+  "description": "A futuristic travel planning app that generates personalized itineraries based on your location and free time using Gemini AI and Google Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
