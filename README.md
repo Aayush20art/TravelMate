@@ -50,21 +50,17 @@ It blends a futuristic UI with smart itinerary generation to help travelers make
 - Prompt-based itinerary generation
 - Grounded responses with references
 
----
-
-## 📂 Project Structure
 src/
 │── components/
-│ ├── AnimatedBackground.tsx
-│ ├── TimelineItem.tsx
+│   ├── AnimatedBackground.tsx
+│   ├── TimelineItem.tsx
 │
 │── services/
-│ ├── geminiService.ts
+│   └── geminiService.ts
 │
 │── types/
-│ ├── index.ts
+│   └── index.ts
 │
 │── App.tsx
 │── main.tsx
 
----
