@@ -50,6 +50,7 @@ It blends a futuristic UI with smart itinerary generation to help travelers make
 - Prompt-based itinerary generation
 - Grounded responses with references
 
+### Project Structure
 src/
 │── components/
 │   ├── AnimatedBackground.tsx
