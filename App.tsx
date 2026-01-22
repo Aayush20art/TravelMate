@@ -338,7 +338,7 @@ const App = () => {
               <div className="w-16 h-16 md:w-24 md:h-24 rounded-2xl md:rounded-[3rem] bg-white flex items-center justify-center font-black text-2xl md:text-4xl text-[#0c0a2d] shadow-[0_0_50px_rgba(255,255,255,0.3)]">TM</div>
               <div className="flex flex-col">
                 <span className="font-black text-3xl md:text-5xl tracking-tighter text-white uppercase leading-none"></span>
-                <span className="text-[9px] md:text-[11px] text-fuchsia-500 uppercase font-black tracking-[0.6em] mt-1 md:mt-2">The Futue is here</span>
+                <span className="text-[9px] md:text-[11px] text-fuchsia-500 uppercase font-black tracking-[0.6em] mt-1 md:mt-2">The Future is here</span>
               </div>
             </div>
             
