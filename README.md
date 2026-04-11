@@ -1,18 +1,6 @@
 
 This contains everything you need to run your app locally.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install Dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-   # ✈️ TravelMate – Infinite Journeys
-
 TravelMate is an AI-powered travel itinerary planner that designs a **personalized, time-optimized day plan** based on your destination, available time, interests, and live location context.  
 It blends a futuristic UI with smart itinerary generation to help travelers make the most of their day.
 
