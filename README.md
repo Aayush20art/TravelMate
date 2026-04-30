@@ -3,7 +3,7 @@
 ## 🛩️ TravelMate
 
 ---
-This contains everything you need to run your app locally.
+This everything you need to run your app locally.
 
 TravelMate is an AI-powered travel itinerary planner that designs a **personalized, time-optimized day plan** based on your destination, available time, interests, and live location context.  
 It blends a futuristic UI with smart itinerary generation to help travelers make the most of their day.
