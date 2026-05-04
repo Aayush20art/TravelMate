@@ -1,6 +1,6 @@
 ---
 
-## 🛩️ TravelMate
+## 🛩️ Travelmate
 
 ---
 This everything you need to run your app locally.
