@@ -344,7 +344,7 @@ const App = () => {
             
             <div className="flex flex-wrap justify-center gap-8 md:gap-20 text-[10px] md:text-sm font-black uppercase tracking-[0.4em] text-slate-500">
               
-              <a href="#" className="hover:text-white transition-colors">Access</a>
+              <a href="#" className="hover:text-white transition-colors">Made by Aayush Sharma</a>
             </div>
 
             <div className="text-center md:text-right flex flex-col items-center md:items-end gap-4 md:gap-6">
