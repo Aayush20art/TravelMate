@@ -17,7 +17,7 @@ It blends a futuristic UI with smart itinerary generation to help travelers make
 
 ## ✨ Features
 
-- 🧠 **AI-Generated Itinerary** using google Gemini
+- 🧠 **AI-Generated Itinerary** using Google Gemini
 - 📍 **Location-aware planning** (optional geolocation support)
 - ⏰ **Time-bound scheduling** (start & end time)
 - 🎯 **Interest-based customization**
