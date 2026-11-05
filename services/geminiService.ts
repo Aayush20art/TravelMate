@@ -2,7 +2,7 @@
 import { GoogleGenAI } from "@google/genai";
 import { ItineraryPlan, UserPreferences } from "../types";
 
-const MODEL_NAME = 'gemini-2.5-flash';
+const MODEL_NAME = 'gemini-3.1-flash-lite';
 
 export async function generateItinerary(
   prefs: UserPreferences,
